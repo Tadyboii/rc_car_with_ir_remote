@@ -59,6 +59,7 @@ The following IR codes are configured for movement:
 
 Here is a video demonstrating the Arduino remote control car in action:
 
+![InAction](https://github.com/Tadyboii/rc_car_with_ir_remote/blob/main/demo.gif)
 
 ## Contributions
 
