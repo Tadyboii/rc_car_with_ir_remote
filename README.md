@@ -24,7 +24,7 @@ This project demonstrates how to build a simple remote control car using an Ardu
 2. **Left Motor** connected to pins `3` (Motor A) and `5` (Motor B).
 3. **Right Motor** connected to pins `6` (Motor A) and `9` (Motor B).
 4. **Motor Driver Pins (ENA, ENB)** connected to pins `10` and `11`.
-5. Connect the motor driver and Arduino to a suitable power supply.
+5. Connect the motor driver and Arduino to a suitable power supply (eg. 9V Battery for the arduino ang 4 AA batteries for the motor driver).
 
 ## Code Overview
 
